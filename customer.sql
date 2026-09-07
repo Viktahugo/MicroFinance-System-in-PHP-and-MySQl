@@ -87,7 +87,7 @@ CREATE TABLE `customer` (
 --
 
 INSERT INTO `customer` (`Id`, `FirstName`, `LastName`, `DOB`, `NID`, `Photo`, `Address`, `Mobile`, `AccountNumber`) VALUES
-(1, 'Victorhugo', 'Bisangwa', '2009-01-01', '1991202029200221', 'victor.jpg', 'Kanombe', '0789066369', '3068547129'),
+(1, 'John', 'paul', '2009-01-01', '', 'victor.jpg', 'Kanombe', '0789066369', '3068547129'),
 (2, 'John', 'Doe', '2011-01-04', '1991202029207221', 'victor.jpg', 'Rwanda', '0789066369', '9842051637');
 
 -- --------------------------------------------------------
